@@ -26,9 +26,10 @@ Code▼からDownload ZIPをクリックしzipをダウンロードし解凍し�
 
 [この記事を読みcmdを実行してダウンロードしたCNR-UUID-BruteForceを開き](https://www.wikihow.jp/Mac%E3%81%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B)pip instll -r req.txtと打った後にpython3 brute.py又はpython3 nonthreadbrute.pyと打つ
 
-#####　2.実行出来たら
+##### 2.実行出来たら
 
 brute.pyを実行した場合PCの性能とお話し合いしてスレッド数を決める、nonthreadbrute.pyの方は成功.txtが出来るのを気長に待ちましょう。
+
 ---
 ToDo List
 - [x] スレッディング
