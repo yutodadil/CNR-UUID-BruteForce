@@ -4,4 +4,4 @@
 ---
 もしもあなたが誰かへの復讐への心で燃えているのであれば私ではなく自分で書いたコードで復讐してください。
  - 私はあなたが協力して欲しい場合あなたへ協力します。([Line](https://lin.ee/QzHo54r) DiscordはBANされました、[Telegram](https://t.me/helloiamanon) Instagram?,Facebook? not trust,Twitterは幽兎としてではなく別人として生きてたいので教えません。 Matrixは今iPadからだから許して。)
-   - 2 
+   - 2 あいうえお
