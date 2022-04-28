@@ -6,7 +6,7 @@
  - 私はあなたが協力して欲しい場合あなたへ協力します。([Line](https://lin.ee/QzHo54r) DiscordはBANされました、[Telegram](https://t.me/helloiamanon) Instagram?,Facebook? not trust,Twitterは幽兎としてではなく別人として生きてたいので教えません。 Matrixは今iPadからだから許して。)
 ---
 ToDo List
-[x] スレッディング
-[x] titleで分かりやすくする
-[ ] オープンソースにする
-[ ] GUIにする(優先度低め)
+- [x] スレッディング
+- [x] titleで分かりやすくする
+- [ ] オープンソースにする
+- [ ] GUIにする(優先度低め)
