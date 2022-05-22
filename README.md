@@ -32,7 +32,9 @@ Code▼からDownload ZIPをクリックしzipをダウンロードし解凍し�
 brute.pyを実行した場合PCの性能とお話し合いしてスレッド数を決める、nonthreadbrute.pyの方は成功.txtが出来るのを気長に待ちましょう。
 
 ---
-ToDo List
+>**Note**
+>
+> ToDo List
 - [x] スレッディング
 - [x] titleで分かりやすくする
 - [x] オープンソースにする
